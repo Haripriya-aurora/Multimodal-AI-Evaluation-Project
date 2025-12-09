@@ -1,0 +1,11 @@
+image_id,model_name,output_id,response_text
+1,ModelA,1A,The scene shows a cat sleeping on a sofa.
+1,ModelB,1B,It appears to be a small cat resting on the couch.
+2,ModelA,2A,The person is riding a bicycle along the road.
+2,ModelB,2B,Someone is cycling on a road lined with trees.
+3,ModelA,3A,There are slices of pizza on the plate.
+3,ModelB,3B,The food on the plate is pizza.
+4,ModelA,4A,"The traffic light is red, and the cars are waiting."
+4,ModelB,4B,Cars are stopped at a red traffic light.
+5,ModelA,5A,The scene is happening in a classroom with a teacher and students.
+5,ModelB,5B,This looks like a classroom setting with a teacher at the front.

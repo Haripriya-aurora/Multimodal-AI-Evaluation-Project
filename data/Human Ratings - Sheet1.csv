@@ -1,0 +1,11 @@
+output_id,accuracy,completeness,clarity,safety,overall_score,better_than_other,notes
+1A,2,2,2,2,8,Tie,Correct and clearly describes the cat.
+1B,2,2,2,2,8,Tie,Also correct and clear.
+2A,2,2,2,2,8,Tie,Fully answers what the person is doing.
+2B,2,2,2,2,8,Tie,Equivalent good answer.
+3A,2,2,2,2,8,Tie,Correctly identifies pizza on the plate.
+3B,2,2,2,2,8,Tie,Same as ModelA.
+4A,2,2,2,2,8,Tie,Correctly mentions red traffic light and waiting cars.
+4B,2,2,2,2,8,Tie,Also correct and clear.
+5A,2,2,2,2,8,Tie,Clearly states it is a classroom.
+5B,2,2,2,2,8,Tie,Same quality as ModelA.

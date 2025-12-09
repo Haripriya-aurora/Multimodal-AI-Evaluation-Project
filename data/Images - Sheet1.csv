@@ -1,0 +1,6 @@
+image_id,image_description,question,ground_truth
+1,A small grey cat sleeping on a sofa.,What animal is shown in the scene?,A cat
+2,A person riding a bicycle on a road with trees on both sides.,What is the person doing?,Riding a bicycle
+3,A plate with two slices of pizza on a dining table.,What food is on the plate?,Pizza
+4,A busy street with many cars waiting at a red traffic light.,What color is the traffic light?,Red
+5,A classroom with a teacher standing in front of a whiteboard and students sitting at desks.,Where is this scene taking place?,In a classroom
